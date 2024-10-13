@@ -1,0 +1,3704 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Portable Charger Pro",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "multi-purpose",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "4K UHD Monitor",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "easy-to-use",
+        "wireless",
+        "fast-charging",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mouse Elite",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "DSLR Camera Advanced",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Gaming Chair Comfort",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "easy-to-use",
+        "wireless",
+        "fast-charging",
+        "multi-purpose",
+        "smart-device",
+        "eco-friendly",
+        "ergonomic",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Noise-Cancelling Headphones",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "easy-to-use",
+        "wireless",
+        "smart-device",
+        "high-capacity",
+        "multi-purpose",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Smartphone X",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "high-capacity",
+        "multi-purpose",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Wireless Router Turbo",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "high-capacity",
+        "waterproof",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Fitness Tracker FitPro",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "easy-to-use",
+        "wireless",
+        "fast-charging",
+        "smart-device",
+        "high-capacity",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Graphic Tablet Plus",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "easy-to-use",
+        "wireless",
+        "fast-charging",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Smart TV Ultra",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "wireless",
+        "easy-to-use",
+        "smart-device",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Bluetooth Speaker Boom",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Mechanical Keyboard Gamer",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "multi-purpose",
+        "high-capacity",
+        "waterproof",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Action Camera Go",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "high-capacity",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Tablet S",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "multi-purpose",
+        "high-capacity",
+        "eco-friendly",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "External Hard Drive 1TB",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "multi-purpose",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Laptop Stand Adjustable",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "easy-to-use",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "multi-purpose",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Drone Fly",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "easy-to-use",
+        "smart-device",
+        "high-capacity",
+        "multi-purpose",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Smartwatch Active",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "easy-to-use",
+        "smart-device",
+        "wireless",
+        "fast-charging",
+        "multi-purpose",
+        "eco-friendly",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "4K Gaming Monitor",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "easy-to-use",
+        "ergonomic",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "DSLR Camera Pro",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "easy-to-use",
+        "wireless",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Gaming Headset Surround",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Portable Power Bank",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "fast-charging",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Smart Thermostat",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "easy-to-use",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Bluetooth Earbuds Mini",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "wireless",
+        "easy-to-use",
+        "multi-purpose",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Wireless Charging Pad",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "smart-device",
+        "high-capacity",
+        "multi-purpose",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Laptop Cooling Pad",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "easy-to-use",
+        "wireless",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Action Camera 4K",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Smart Lock Secure",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "multi-purpose",
+        "easy-to-use",
+        "high-capacity",
+        "eco-friendly",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Robot Vacuum Clean",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "fast-charging",
+        "multi-purpose",
+        "high-capacity",
+        "eco-friendly",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Gaming Console X",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "easy-to-use",
+        "wireless",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Smart Light Bulb",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "fast-charging",
+        "multi-purpose",
+        "high-capacity",
+        "eco-friendly",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Digital Photo Frame",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "easy-to-use",
+        "wireless",
+        "fast-charging",
+        "smart-device",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Wireless Earbuds Max",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "easy-to-use",
+        "wireless",
+        "fast-charging",
+        "high-capacity",
+        "smart-device",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "4K Projector",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "fast-charging",
+        "smart-device",
+        "high-capacity",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Portable Blender",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Smart Scale",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "easy-to-use",
+        "ergonomic",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Gaming Keyboard RGB",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Noise-Cancelling Earbuds",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "easy-to-use",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "smart-device",
+        "eco-friendly",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Video Doorbell HD",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Wireless Speaker Portable",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "easy-to-use",
+        "wireless",
+        "smart-device",
+        "multi-purpose",
+        "high-capacity",
+        "eco-friendly",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Smart Plug WiFi",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "wireless",
+        "easy-to-use",
+        "smart-device",
+        "fast-charging",
+        "multi-purpose",
+        "eco-friendly",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Bluetooth Tracker",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "easy-to-use",
+        "smart-device",
+        "wireless",
+        "high-capacity",
+        "multi-purpose",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Electric Toothbrush Sonic",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "waterproof",
+        "fast-charging",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Smart Air Purifier",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "multi-purpose",
+        "waterproof",
+        "eco-friendly",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Portable Camping Stove",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "waterproof",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "WiFi Range Extender",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "fast-charging",
+        "smart-device",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Cordless Handheld Vacuum",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "fast-charging",
+        "smart-device",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bluetooth Car Adapter",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Fitness Smart Band",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "multi-purpose",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Portable Solar Charger",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "multi-purpose",
+        "high-capacity",
+        "easy-to-use",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Smart Baby Monitor",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "easy-to-use",
+        "wireless",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Wireless Gaming Controller",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "high-capacity",
+        "multi-purpose",
+        "fast-charging",
+        "eco-friendly",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Smart Doorbell Pro",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "HD Webcam",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Smartwatch Kids",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "waterproof",
+        "easy-to-use",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Bluetooth Neckband",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Portable LED Projector",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "multi-purpose",
+        "easy-to-use",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Gaming Desk",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "easy-to-use",
+        "eco-friendly",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Ergonomic Office Chair",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "waterproof",
+        "fast-charging",
+        "multi-purpose",
+        "smart-device",
+        "easy-to-use",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "USB-C Hub",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "high-capacity",
+        "multi-purpose",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Wireless Presentation Clicker",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "easy-to-use",
+        "wireless",
+        "waterproof",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Portable SSD 2TB",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Electric Scooter",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "fast-charging",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Bluetooth Karaoke Microphone",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Dash Cam",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "fast-charging",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Action Camera Mini",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "easy-to-use",
+        "fast-charging",
+        "multi-purpose",
+        "smart-device",
+        "high-capacity",
+        "eco-friendly",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Portable Espresso Maker",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "easy-to-use",
+        "smart-device",
+        "wireless",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Smart Mug Temperature Control",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "easy-to-use",
+        "high-capacity",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "4K Action Camera",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "easy-to-use",
+        "wireless",
+        "fast-charging",
+        "high-capacity",
+        "eco-friendly",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Robot Lawn Mower",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "waterproof",
+        "fast-charging",
+        "multi-purpose",
+        "high-capacity",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Gaming Laptop Stand",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Electric Skateboard",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Wireless Charging Dock",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "easy-to-use",
+        "eco-friendly",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Bluetooth Speaker Waterproof",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Smart Water Bottle",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "multi-purpose",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Gaming Monitor Curved",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "smart-device",
+        "multi-purpose",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Portable Power Station",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "fast-charging",
+        "multi-purpose",
+        "high-capacity",
+        "smart-device",
+        "eco-friendly",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Electric Kettle Smart",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "easy-to-use",
+        "wireless",
+        "smart-device",
+        "multi-purpose",
+        "fast-charging",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Wireless Mouse",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "smart-device",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Smart WiFi Light Strip",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "multi-purpose",
+        "high-capacity",
+        "fast-charging",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Mini Projector",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "waterproof",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Gaming Mouse Pad RGB",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "easy-to-use",
+        "wireless",
+        "fast-charging",
+        "waterproof",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Digital Alarm Clock",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "easy-to-use",
+        "wireless",
+        "smart-device",
+        "multi-purpose",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Wireless Keyboard Compact",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Electric Hand Massager",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "high-capacity",
+        "multi-purpose",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Smart Pet Feeder",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "high-capacity",
+        "easy-to-use",
+        "eco-friendly",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Gaming Router",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "waterproof",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Smart Security Camera",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "fast-charging",
+        "high-capacity",
+        "easy-to-use",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Portable Air Conditioner",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "wireless",
+        "fast-charging",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Electric Bike",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "waterproof",
+        "easy-to-use",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Bluetooth Sleep Headphones",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "smart-device",
+        "easy-to-use",
+        "multi-purpose",
+        "fast-charging",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Wireless Charging Stand",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "smart-device",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Portable Power Generator",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "multi-purpose",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Gaming PC Case",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "smart-device",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Smart Kitchen Scale",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "easy-to-use",
+        "smart-device",
+        "high-capacity",
+        "multi-purpose",
+        "eco-friendly",
+        "waterproof",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "4K Webcam",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "easy-to-use",
+        "wireless",
+        "fast-charging",
+        "multi-purpose",
+        "smart-device",
+        "high-capacity",
+        "eco-friendly",
+        "ergonomic",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Electric Wine Opener",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "wireless",
+        "easy-to-use",
+        "smart-device",
+        "high-capacity",
+        "multi-purpose",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Portable Mini Fridge",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "waterproof",
+        "wireless",
+        "easy-to-use",
+        "smart-device",
+        "fast-charging",
+        "eco-friendly",
+        "ergonomic",
+        "lightweight",
+        "compact",
+        "durable"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Portable Charger Pro",
+      "price": 891.77,
+      "description": "Ergonomically designed with user comfort in mind.",
+      "specifications": {
+        "resolution": "4K UHD",
+        "screen_size": "27 inches",
+        "refresh_rate": "144Hz",
+        "ports": "HDMI, DisplayPort"
+      },
+      "reviews": [
+        {
+          "reviewer": "Laura Taylor",
+          "rating": 4,
+          "comment": "Highly durable, I've been using it for months without any issues."
+        },
+        {
+          "reviewer": "Sarah Lee",
+          "rating": 3,
+          "comment": "Perfect for both professionals and beginners."
+        }
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1579202673506-ca3ce28943ef",
+      "tags": [
+        "stylish",
+        "wireless",
+        "fast-charging",
+        "multi-purpose",
+        "eco-friendly",
+        "ergonomic",
+        "waterproof",
+        "compact",
+        "lightweight",
+        "durable"
+      ]
+    }
+  ]
+}
