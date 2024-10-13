@@ -1,4 +1,9 @@
-import {ADD_ITEM_TO_CART, DECREMENT_QUANTITY, REMOVE_ITEM} from './constants';
+import {
+  ADD_ITEM_TO_CART,
+  DECREMENT_QUANTITY,
+  REMOVE_ITEM,
+  EMPTY_CART,
+} from "./constants";
 
 const initialAppState = {
   items: [],
@@ -9,7 +14,7 @@ export const CartReducer = (state = initialAppState, action) => {
     case ADD_ITEM_TO_CART: {
       const itemToAdd = action.payload; // The new item to add
       const existingItemIndex = state.items.findIndex(
-        item => item.id === itemToAdd.id,
+        (item) => item.id === itemToAdd.id
       ); // Check if the product already exists
 
       // If the item already exists in the cart
@@ -18,7 +23,7 @@ export const CartReducer = (state = initialAppState, action) => {
         const updatedItems = state.items.map((item, index) => {
           if (index === existingItemIndex) {
             // Update the quantity of the existing item
-            return {...item, quantity: item.quantity + 1};
+            return { ...item, quantity: item.quantity + 1 };
           }
           return item;
         });
@@ -32,7 +37,7 @@ export const CartReducer = (state = initialAppState, action) => {
       // If the item does not exist, add it to the cart with quantity 1
       return {
         ...state,
-        items: [...state.items, {...itemToAdd, quantity: 1}], // Add the new item with quantity 1
+        items: [...state.items, { ...itemToAdd, quantity: 1 }], // Add the new item with quantity 1
       };
     }
 
@@ -40,15 +45,17 @@ export const CartReducer = (state = initialAppState, action) => {
       const itemIdToRemove = action.payload;
 
       // Check if the item exists in the cart
-      const existingItem = state.items.find(item => item.id === itemIdToRemove);
+      const existingItem = state.items.find(
+        (item) => item.id === itemIdToRemove
+      );
 
       if (existingItem) {
         if (existingItem.quantity > 1) {
           // Decrease quantity by 1
-          const updatedItems = state.items.map(item =>
+          const updatedItems = state.items.map((item) =>
             item.id === itemIdToRemove
-              ? {...item, quantity: item.quantity - 1}
-              : item,
+              ? { ...item, quantity: item.quantity - 1 }
+              : item
           );
           return {
             ...state,
@@ -57,7 +64,7 @@ export const CartReducer = (state = initialAppState, action) => {
         } else {
           // If quantity is 1, remove the item completely
           const filteredItems = state.items.filter(
-            item => item.id !== itemIdToRemove,
+            (item) => item.id !== itemIdToRemove
           );
           return {
             ...state,
@@ -73,12 +80,19 @@ export const CartReducer = (state = initialAppState, action) => {
 
       // Filter out the item with the matching id
       const filteredItems = state.items.filter(
-        item => item.id !== itemIdToRemove,
+        (item) => item.id !== itemIdToRemove
       );
 
       return {
         ...state,
         items: filteredItems,
+      };
+    }
+
+    case EMPTY_CART: {
+      return {
+        ...state,
+        items: [],
       };
     }
 
